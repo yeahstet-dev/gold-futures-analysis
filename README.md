@@ -17,11 +17,14 @@
 
 ## Структура проекта
 
+```bash
 gold-futures-analysis/
-
-├── gold_futures_analysis.ipynb     # Основной Jupyter Notebook (Colab)/n
-├── gold_futures_timeseries.csv     # Датасет
-└── README.md
+├── gold_futures_analysis.ipynb          # Основной Jupyter Notebook
+├── gold_futures_timeseries.csv          # Исходный датасет
+├── README.md
+└── images/                              # Визуализации
+    ├── price_ma.png
+    └── correlation.png
 
 
 ## Основные выводы
