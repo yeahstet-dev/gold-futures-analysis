@@ -33,10 +33,10 @@ gold-futures-analysis/
 ## Визуализации
 
 **1. Динамика цены с скользящими средними**
-![Цена + MA](images/price_ma.png)
+![Цена + MA](/images/price_ma.png)
 
 **2. Корреляционная матрица**
-![Correlation Heatmap](images/correlation.png)
+![Correlation Heatmap](/images/correlation.png)
 
 ---
 
