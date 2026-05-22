@@ -20,6 +20,7 @@
 gold-futures-analysis/
 
 ├── gold_futures_analysis.ipynb     # Основной Jupyter Notebook (Colab)
+
 ├── gold_futures_timeseries.csv     # Датасет
 └── README.md
 
