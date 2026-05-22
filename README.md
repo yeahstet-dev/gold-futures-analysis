@@ -25,6 +25,7 @@ gold-futures-analysis/
 └── images/                              # Визуализации
     ├── price_ma.png
     └── correlation.png
+```
 
 
 ## Основные выводы
