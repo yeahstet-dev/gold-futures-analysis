@@ -18,6 +18,7 @@
 ## Структура проекта
 
 gold-futures-analysis/
+
 ├── gold_futures_analysis.ipynb     # Основной Jupyter Notebook (Colab)
 ├── gold_futures_timeseries.csv     # Датасет
 └── README.md
@@ -32,11 +33,11 @@ gold-futures-analysis/
 
 ## Визуализации
 
-**1. Динамика цены с скользящими средними**
-![Цена + MA](/images/price_ma.png)
+**1. Динамика цены золота с скользящими средними**  
+![Динамика цены с MA](images/price_ma.png)
 
-**2. Корреляционная матрица**
-![Correlation Heatmap](/images/correlation.png)
+**2. Корреляционная матрица признаков**  
+![Корреляционная матрица](images/correlation.png)
 
 ---
 
