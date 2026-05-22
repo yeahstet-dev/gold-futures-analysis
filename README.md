@@ -63,12 +63,6 @@ pandas — обработка данных
 matplotlib + seaborn — визуализация
 Google Colab
 
-Как запустить
-
-Открой gold_futures_analysis.ipynb в Google Colab
-Загрузи файл gold_futures_timeseries.csv
-Запусти все ячейки
-
 
 Автор: Тарасов Сергей
 Дата: Май 2026
