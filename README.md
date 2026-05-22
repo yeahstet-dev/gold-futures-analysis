@@ -34,10 +34,10 @@ gold-futures-analysis/
 ## Визуализации
 
 **1. Динамика цены золота с скользящими средними**  
-![Динамика цены с MA](images/price_ma.png)
+![Динамика цены с MA](images/price_ma.PNG)
 
 **2. Корреляционная матрица признаков**  
-![Корреляционная матрица](images/correlation.png)
+![Корреляционная матрица](images/correlation.PNG) 
 
 ---
 
